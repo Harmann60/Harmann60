@@ -22,7 +22,7 @@
 ### 🧰 Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,linux,figma,tailwind" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,linux,github" />
 </p>
 
 ---
@@ -36,13 +36,6 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmann60&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-### 🏆 Achievements & Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harmann60&theme=onedark&no-bg=true&no-frame=true&margin-w=15" />
 </p>
 
 ---
