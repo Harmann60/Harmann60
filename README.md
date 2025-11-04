@@ -35,8 +35,8 @@
 
 ---
 > “Code like mountains — strong, grounded, and reaching new heights.” 🌄
-> 
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:457fca,100:5691c8&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00bfa5&height=100&section=footer" />
 </p>
 
