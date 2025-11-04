@@ -15,9 +15,8 @@
 ---
 
 ### 🏗️ About Me
-- 🔭 I’m currently working on **[Indian Tourism Website](https://github.com/harmann60/visit-india)**  
+- 🔭 I’m currently working on **Indian Tourism Website**
 - 🌱 I’m currently learning **React, GSAP, and modern UI/UX design**  
-- 💬 Ask me about **frontend development, animations, and clean UI**  
 - 📫 Reach me at **harmanjss10@gmail.com**  
 - ⚡ Fun fact: *Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.* ⚽🏔️  
 
