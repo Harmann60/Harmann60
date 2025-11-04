@@ -37,6 +37,6 @@
 > “Code like mountains — strong, grounded, and reaching new heights.” 🌄
 > 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=120&section=footer" />
+  <img src="https://i.imgur.com/Zw3eP0W.jpg" alt="mountain banner" width="100%" />
 </p>
 
