@@ -7,9 +7,6 @@
 <!-- Badges and Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harmann60&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/harmann60" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/harmann60?logo=twitter&style=flat-square" alt="Twitter Follow" />
-  </a>
 </p>
 
 ---
