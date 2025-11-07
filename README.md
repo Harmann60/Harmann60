@@ -9,7 +9,6 @@
   <img src="https://komarev.com/ghpvc/?username=harmann60&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
----
 
 ### 🏗️ About Me
 - 🔭 I’m currently working on a website for **Son Heung-Min**
