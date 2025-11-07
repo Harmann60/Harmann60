@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on a website for **Son Heung-Min**
 - 🌱 I’m currently learning **React, GSAP, and modern UI/UX design**  
 - 📫 Reach me at **harmanjss10@gmail.com**  
-- ⚡ Fun fact: *Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.* ⚽🏔️  
+- ⚡*Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.* ⚽🏔️  
 
 ---
 
