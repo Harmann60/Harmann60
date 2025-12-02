@@ -25,15 +25,6 @@
 </p>
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" 
-       src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=harmann60&layout=compact&theme=tokyonight" />
-</p>
-
----
 > “Code like mountains — strong, grounded, and reaching new heights.” 🌄
 
 <p align="center">
