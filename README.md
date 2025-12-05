@@ -20,13 +20,13 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,linux,github" />
 </p>
 ---
-<h3 align="center">📊 GitHub Analytics</h3>
+
+<h3 align="center">💻 Languages Used</h3>
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Harmann60&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://metrics.lecoq.io/Harmann60?template=classic&base=0&languages=1&languages.limit=8&languages.threshold=0%&theme=tokyonight" alt="Harman's Languages" />
 </div>
 ---
+
  “Code like mountains — strong, grounded, and reaching new heights.” 🌄
 
 <p align="center">
