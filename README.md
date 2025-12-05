@@ -1,10 +1,8 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Harman</span></h1>
 <h3 align="center">💻 A Passionate Frontend Developer from Himachal Pradesh, India </h3>
 
 ---
 
-<!-- Badges and Views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harmann60&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -12,9 +10,7 @@
 
 ### 🏗️ About Me
 - 🔭 I’m currently working on a website for **Son Heung-Min**
-- 🌱 I’m currently learning **React, GSAP, and modern UI/UX design**  
-- 📫 Reach me at **harmanjss10@gmail.com**  
-- ⚡*Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.* ⚽🏔️  
+- 🌱 I’m currently learning **React, GSAP, and modern UI/UX design** - 📫 Reach me at **harmanjss10@gmail.com** - ⚡ *Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.* ⚽🏔️  
 
 ---
 
@@ -24,10 +20,18 @@
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,linux,github" />
 </p>
 
+<h3 align="center">📊 GitHub Analytics</h3>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Harmann60&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
 ---
 > “Code like mountains — strong, grounded, and reaching new heights.” 🌄
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00bfa5&height=100&section=footer" />
 </p>
-
