@@ -24,11 +24,8 @@
 
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Harmann60&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Harmann60&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 
