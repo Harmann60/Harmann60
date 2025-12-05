@@ -24,7 +24,7 @@
 
 <h3 align="center">💻 Languages Used</h3>
 <div align="center">
-  <img src="https://metrics.lecoq.io/Harmann60?template=classic&base=0&languages=1&languages.limit=8&languages.threshold=0%&theme=tokyonight" alt="Harman's Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&theme=tokyonight&hide_border=true&layout=normal" alt="Top Languages" />
 </div>
 
 ---
