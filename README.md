@@ -22,9 +22,14 @@
 
 ---
 
-<h3 align="center">💻 Languages Used</h3>
+<h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&theme=tokyonight&hide_border=true&layout=normal" alt="Top Languages" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Harmann60&show_icons=true&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
 ---
