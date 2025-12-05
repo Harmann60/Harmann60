@@ -19,12 +19,14 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,linux,github" />
 </p>
+
 ---
 
 <h3 align="center">💻 Languages Used</h3>
 <div align="center">
   <img src="https://metrics.lecoq.io/Harmann60?template=classic&base=0&languages=1&languages.limit=8&languages.threshold=0%&theme=tokyonight" alt="Harman's Languages" />
 </div>
+
 ---
 
  “Code like mountains — strong, grounded, and reaching new heights.” 🌄
