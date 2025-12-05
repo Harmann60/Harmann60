@@ -19,18 +19,15 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,linux,github" />
 </p>
-
+---
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Harmann60&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Harmann60&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
 ---
-> “Code like mountains — strong, grounded, and reaching new heights.” 🌄
+ “Code like mountains — strong, grounded, and reaching new heights.” 🌄
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00bfa5&height=100&section=footer" />
