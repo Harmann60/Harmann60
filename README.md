@@ -24,7 +24,7 @@
 
 <h3 align="center">💻 Languages Used</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&theme=tokyonight&hide_border=true&layout=normal" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&theme=tokyonight&hide_border=true&layout=donut&custom_title=Top%20Languages" alt="Top Languages" />
 </div>
 
 ---
