@@ -22,18 +22,10 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
-
+<h3 align="center">💻 Languages Used</h3>
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harmann60&show_icons=true&theme=tokyonight&hide_border=true" />
-  </a>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
-
 ---
 
  “Code like mountains — strong, grounded, and reaching new heights.” 🌄
