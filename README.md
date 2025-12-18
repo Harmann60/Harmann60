@@ -26,6 +26,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
+
 ---
 
  “Code like mountains — strong, grounded, and reaching new heights.” 🌄
