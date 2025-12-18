@@ -22,11 +22,9 @@
 
 ---
 
-<h3 align="center">📊 GitHub Analytics</h3>
+<h3 align="center">💻 Languages Used</h3>
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Harmann60&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&theme=tokyonight&hide_border=true&layout=normal" alt="Top Languages" />
 </div>
 
 ---
