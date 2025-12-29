@@ -1,71 +1,63 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Harman Jassal</span></h1>
-<h3 align="center">💻 A Passionate Frontend Developer from Himachal Pradesh, India 🇮🇳</h3>
+ <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Harman</span></h1>
+
+<h3 align="center">💻 A Passionate Frontend Developer from Himachal Pradesh, India </h3>
+
 
 ---
 
-<!-- Badges and Views -->
+
 <p align="center">
+
   <img src="https://komarev.com/ghpvc/?username=harmann60&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://twitter.com/harmann60" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/harmann60?logo=twitter&style=flat-square" alt="Twitter Follow" />
-  </a>
+
 </p>
 
----
+
 
 ### 🏗️ About Me
-- 🔭 I’m currently working on **[Indian Tourism Website](https://github.com/harmann60/visit-india)**  
-- 🌱 I’m currently learning **React, GSAP, and modern UI/UX design**  
-- 💬 Ask me about **frontend development, animations, and clean UI**  
-- 📫 Reach me at **harmanjss10@gmail.com**  
-- ⚡ Fun fact: *Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.* ⚽🏔️  
+
+- 🔭 I’m currently working on a website for **Son Heung-Min**
+
+- 🌱 I’m currently learning **React, GSAP, and modern UI/UX design**
+
+- 📫 Reach me at **harmanjss10@gmail.com**
+
+- ⚡ *Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.* ⚽🏔️  
+
 
 ---
+
 
 ### 🧰 Languages and Tools
 
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,react,nodejs,express,mongodb,mysql,git,linux,figma,tailwind" />
+
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,linux,github" />
+
 </p>
+
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harmann60&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=harmann60&theme=tokyonight" />
-</p>
+<h3 align="center">💻 Languages Used</h3>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harmann60&layout=compact&theme=tokyonight" />
-</p>
+<div align="center">
 
----
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 
-### 🏆 Achievements & Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harmann60&theme=onedark&no-bg=true&no-frame=true&margin-w=15" />
-</p>
+</div>
+
 
 ---
 
-### 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:harmanjss10@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/harmann60" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/harman-jassal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/harmann60" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
 
----
+ “Code like mountains — strong, grounded, and reaching new heights.” 🌄
 
-### 💬 Quote I Live By
-> “Code like mountains — strong, grounded, and reaching new heights.” 🌄
-
----
 
 <p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a73e8,100:00bfa5&height=100&section=footer" />
-</p>
+
+</p> 
