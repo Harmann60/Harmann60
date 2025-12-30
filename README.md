@@ -43,11 +43,15 @@
 
 <h3 align="center">💻 Languages Used</h3>
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harmann60&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
-
-</div>
+<table>
+  <td>
+      <img
+        src="https://github-readme-stats-39i6.vercel.app/api/top-langs/?username=YHQZ1&layout=compact&hide=html,css,dockerfile,plpgsql&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600"
+        width="420" height="180"
+      />
+    </td>
+  </tr>
+</table>
 
 
 ---
