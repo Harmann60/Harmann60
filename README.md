@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Harman</span></h1>
 
-<h3 align="center">💻 A Passionate Frontend Developer from Himachal Pradesh, India </h3>
+<h3 align="center">💻 A Passionate Web Developer from Himachal Pradesh, India </h3>
 
 
 ---
