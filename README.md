@@ -33,7 +33,7 @@
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,linux,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,mysql,linux,github" />
 
 </p>
 
