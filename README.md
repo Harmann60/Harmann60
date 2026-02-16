@@ -16,7 +16,7 @@
 
 ### 🏗️ About Me
 
-- 🔭 I’m currently working on a website for **Son Heung-Min**
+- 🔭 I’m currently working on a tourism website on **Kalpa**
 
 - 🌱 I’m currently learning **React, GSAP, and modern UI/UX design**
 
