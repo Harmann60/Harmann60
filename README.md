@@ -16,7 +16,7 @@
 
 ### 🏗️ About Me
 
-- 🔭 I’m currently working on a tourism website on **Kalpa**
+- 🔭 I’m currently working on a tourism website about **Kalpa**
 
 - 🌱 I’m currently learning **React, GSAP, and modern UI/UX design**
 
