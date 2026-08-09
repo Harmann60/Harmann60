@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on a tourism website about **Kalpa**
 
-- 🌱 I’m currently learning **React, GSAP, and modern UI/UX design**
+- 🌱 I’m currently learning **GSAP, and Lenis**
 
 - 📫 Reach me at **harmanjss10@gmail.com**
 
