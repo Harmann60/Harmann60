@@ -43,7 +43,7 @@ for the web, solving problems with C++, and figuring out why something broke at 
 
 <p align="center">
 
-  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,git,mysql,linux,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,react,git,mysql,linux,github" />
 
 </p>
 
