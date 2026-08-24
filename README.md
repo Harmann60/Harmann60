@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://github.com/Harmann60">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Harman+Jassal;Computer+Science+Student;Web+Developer+%7C+C%2B%2B+Developer;Building+Things+%26+Breaking+Bugs;Exploring+Software+Engineering;01001000+01100001+01110010+01101101+01100001+01101110" alt="Typing Banner">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Harman+Jassal;Computer+Science+Student;Web+Developer+%7C+C%2B%2B+Developer;Building+Things+%26+Breaking+Bugs;Exploring+Software+Engineering;C%2B%2B+%7C+Web+%7C+Linux+%7C+R%26D" alt="Typing Banner">
   </a>
 </p>
+
 ---
 
 
