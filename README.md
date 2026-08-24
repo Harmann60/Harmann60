@@ -1,8 +1,7 @@
- <h1 align="center">Hi 👋, I'm <span style="color:#00BFFF;">Harman</span></h1>
-
-<h3 align="center">💻 A Passionate Web Developer from Himachal Pradesh, India </h3>
-
-
+<!-- NAME / TAGLINE - animated typing -->
+<a href="https://github.com/Harmann60">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=Harman+Jassal;Computer+Science+Student;Web+Developer+%7C+C%2B%2B+Enthusiast;Software+Engineering+%26+R%26D;DSA+%7C+Open+Source+%7C+Linux;01100011+01101111+01100100+01100101" alt="typing banner">
+</a>
 ---
 
 
