@@ -51,17 +51,36 @@ for the web, solving problems with C++, and figuring out why something broke at 
 ---
 
 
-<h3 align="center">💻 Languages Used</h3>
+<div align="center">
 
-<table align="center">
-  <td>
-      <img
-        src="https://github-readme-stats-39i6.vercel.app/api/top-langs/?username=Harmann60&layout=compact&langs_count=6&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&cache_seconds=21600"
-        width="420" height="180"
-      />
-    </td>
-  </tr>
+## `~/` skill radar
+
+<table>
+<tr>
+<td width="50%" align="center" valign="middle">
+
+<!-- Self-rated radar - edit assets/skills.json, the workflow redraws it -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
+  <img src="assets/radar-dark.svg" width="400" alt="skill radar chart">
+</picture>
+
+</td>
+<td width="50%" align="center" valign="middle">
+
+<!-- Live radar built from real language byte counts across your repos -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="assets/radar-langs-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
+  <img src="assets/radar-langs-dark.svg" width="400" alt="language radar chart">
+</picture>
+
+</td>
+</tr>
 </table>
+
+</div>
 
 
 ---
