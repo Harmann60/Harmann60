@@ -16,15 +16,24 @@
 ---
 
 
-### 🏗️ About Me
+## `~/` whoami
 
-- 🔭 I’m currently working on a tourism website about **Kalpa**
+```console
+$ cat about.txt
+```
 
-- 🌱 I’m currently learning **GSAP, and Lenis**
+Hi, I'm **Gargi Bhardwaj**. I build things that sit somewhere between machine learning and the web,
+and I solve problems for fun when neither of those is cooperating.
 
-- 📫 Reach me at **harmanjss10@gmail.com**
+- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
+- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
+- Learning **React + Machine Learning**
+- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
 
-- ⚡ *Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.* ⚽🏔️  
+<br>
+
+<div align="center">
+
 
 
 ---
