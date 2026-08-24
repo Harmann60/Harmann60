@@ -25,10 +25,9 @@ $ cat about.txt
 Hi, I'm **Harman Jassal**. I'm a Computer Science student who enjoys building things
 for the web, solving problems with C++, and figuring out why something broke at 2 AM.
 
-- Currently building **[Sage](https://github.com/gargibhardwaj24/Sage)** and **[Spyder](https://github.com/gargibhardwaj24/spyder_frontend)**
-- Portfolio: **[dossier-iota-one.vercel.app](https://dossier-iota-one.vercel.app)**
-- Learning **React + Machine Learning**
-- Fun fact: **I started coding seriously because I wanted to build things I wished existed.**
+- Currently building tourism website about **[Kalpa](https://github.com/Harmann60/Kalpa)**
+- Learning **GSAP + Lenis**
+- Fun fact: **Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.**
 
 <br>
 
