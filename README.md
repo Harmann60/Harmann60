@@ -27,6 +27,7 @@ for the web, solving problems with C++, and figuring out why something broke at 
 
 - Currently building tourism website about **[Kalpa](https://github.com/Harmann60/Kalpa)**
 - Learning **GSAP + Lenis**
+- Reach me at harmanjss10@gmail.com
 - Fun fact: **Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.**
 
 <br>
