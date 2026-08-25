@@ -14,6 +14,8 @@ permissions:
 jobs:
   metrics:
     runs-on: ubuntu-latest
+    env:
+      METRICS_RUNTIME_TOKEN: ${{ secrets.METRICS_TOKEN != '' && secrets.METRICS_TOKEN || github.token }}
     steps:
       # ------------------------------------------------------------------ #
       # The 3D isometric contribution calendar (the one from the inspo)
@@ -21,7 +23,7 @@ jobs:
       - name: Isometric contribution calendar
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_RUNTIME_TOKEN }}
           user: Harmann60
           filename: assets/metrics.isocalendar.svg
           base: ""
@@ -35,7 +37,7 @@ jobs:
       - name: Coding habits
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_RUNTIME_TOKEN }}
           user: Harmann60
           filename: assets/metrics.habits.svg
           base: ""
@@ -53,7 +55,7 @@ jobs:
       - name: Languages
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_RUNTIME_TOKEN }}
           user: Harmann60
           filename: assets/metrics.languages.svg
           base: ""
@@ -71,7 +73,7 @@ jobs:
       - name: Achievements
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ env.METRICS_RUNTIME_TOKEN }}
           user: Harmann60
           filename: assets/metrics.achievements.svg
           base: ""
