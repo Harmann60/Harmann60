@@ -85,6 +85,26 @@ for the web, solving problems with C++, and figuring out why something broke at 
 
 ---
 
+<div align="center">
+
+## `~/` contribution calendar
+
+<!-- 3D isometric calendar, regenerated every 6h by .github/workflows/metrics.yml -->
+<img src="assets/metrics.isocalendar.svg" width="90%" alt="3D isometric contribution calendar">
+
+<br><br>
+
+<!-- Snake eats the contribution graph - .github/workflows/snake.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/harmann60/harmann60/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harmann60/harmann60/output/snake.svg">
+  <img src="https://raw.githubusercontent.com/harmann60/harmann60/output/snake.svg" width="100%" alt="snake eating the contribution graph">
+</picture>
+
+</div>
+
+---
+
 
 <p align="center">
   <i>“Code like mountains — strong, grounded, and reaching new heights.”</i> 🌄
