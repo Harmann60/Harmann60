@@ -22,7 +22,7 @@ $ cat about.txt
 Hi, I'm **Harman Jassal**. I'm a Computer Science student who enjoys building things
 for the web, solving problems with C++, and figuring out why something broke at 2 AM.
 
-- Currently building tourism website about **[Kalpa](https://github.com/Harmann60/Kalpa)**
+- Currently building tourism website about **[Kalpa](https://github.com/Harmann60/Kalpa)** a digital experience inspired by the place I call home
 - Learning **GSAP + Lenis**
 - Reach me at harmanjss10@gmail.com
 - Fun fact: **Mountains keep me grounded, and I admire Heung-Min Son for his grace under pressure.**
